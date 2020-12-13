@@ -1,0 +1,12 @@
+<form>
+  <button bindtap="Forward" style="width:200rpx" class="buttonlook1">↑↑↑
+  </button>
+  <button bindtap="forward" style="width:200rpx" class="buttonlook1">↑</button>
+  <view class="doublebutton">
+    <button bindtap="left" style="width:100rpx" class="buttonlook2">←</button>
+    <button bindtap="right" style="width:100rpx" class="buttonlook3">→</button>
+  </view>
+  <button bindtap="backward" style="width:200rpx" class="buttonlook1">↓</button>
+  <button bindtap="catch" class="buttonlook4">夹取</button>
+  <button bindtap="release" class="buttonlook5">松开</button>
+</form>

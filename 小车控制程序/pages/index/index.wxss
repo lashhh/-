@@ -1,0 +1,24 @@
+.buttonlook1{
+  background-color: darkseagreen;
+  margin-top: 20px;
+}
+.buttonlook2{
+  background-color: darkseagreen;
+  margin-top: 20px;
+}
+.buttonlook3{
+  background-color: darkseagreen;
+  margin-top: 20px;
+}
+.doublebutton{
+  display: flex;
+}
+.buttonlook4{
+  background-color: lightblue;
+  margin-top: 80px;
+}
+.buttonlook5{
+  background-color: lightblue;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
